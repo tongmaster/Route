@@ -9730,3 +9730,29 @@ a.button {
   opacity: 0;
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
+
+.bar .title {
+  overflow: visible !important; }
+
+.round-icon {
+  background-color: #387ef5;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.round-icon > i.icon {
+  color: white;
+  font-size: 28px; }
+
+.content-stable {
+  background-color: #f8f8f8; }
+
+.hint {
+  color: #aaa;
+  font-size: 14px;
+  text-align: center; }
+
+.item-active {
+  background-color: #d2d2d2; }
